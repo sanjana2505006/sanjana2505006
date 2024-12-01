@@ -16,8 +16,8 @@
 
 🛠️ My Tech Stack
 
-	•	Frontend: HTML, CSS
-	•	Programming: Python, C++, Java
+	•	Frontend: HTML, CSS, JS
+	•	Programming: Python
 	•	Tools: Git, VS Code, Canva
 
 📫 Let’s Connect!
