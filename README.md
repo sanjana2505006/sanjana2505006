@@ -1,4 +1,4 @@
-👋 Hi, I’m Sanjana!
+👋 Hi, I’m Sanjana
 
 🎓 I’m a B.Tech Computer Science and Engineering with AI & ML student passionate about learning and building exciting projects in the tech world.
 🚀 About Me...
