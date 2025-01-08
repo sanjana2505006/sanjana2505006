@@ -6,7 +6,7 @@
 	•	🌱 Currently exploring web development, AI/ML, and competitive programming.
 	•	💡 I love working on creative solutions and have participated in hackathons like NIRMAAN Hackathon, where my team won first place! 🏆
 	•	🔍 Interested in entrepreneurship and brainstorming startup ideas.
-	•	💻 Skilled in HTML, CSS, Python, and a beginner in Java.
+	•	💻 Skilled in HTML, CSS, Python, and a beginner in Javascript.
 
 📚 Hobbies & Interests
 
