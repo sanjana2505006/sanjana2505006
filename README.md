@@ -30,39 +30,58 @@ Brief description of the project and what technologies were used.
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/sanjana2505006)
+- [LinkedIn](https://www.linkedin.com/in/sanjana250506/)
+- [LeetCode](https://leetcode.com/u/sanju2505/)
 - [Twitter](https://twitter.com/sanjana2505006)
 
-## Play a Game: Rock Paper Scissors
+## Play a Game: Offline T-Rex
 
 <details>
-  <summary>Click to play Rock Paper Scissors!</summary>
+  <summary>Click to play the Offline T-Rex Game!</summary>
   <br>
   <div>
-    <button onclick="play('rock')">Rock</button>
-    <button onclick="play('paper')">Paper</button>
-    <button onclick="play('scissors')">Scissors</button>
-    <p id="result"></p>
+    <canvas id="gameCanvas" width="600" height="150"></canvas>
+    <script>
+      // Offline T-Rex Game JavaScript Code
+      document.addEventListener('DOMContentLoaded', (event) => {
+        let canvas = document.getElementById('gameCanvas');
+        let context = canvas.getContext('2d');
+        let dino = { x: 50, y: 100, width: 50, height: 50 };
+        let cactus = { x: 600, y: 100, width: 50, height: 50 };
+        let isJumping = false;
+        let jumpHeight = 0;
+        
+        function draw() {
+          context.clearRect(0, 0, canvas.width, canvas.height);
+          context.fillStyle = 'green';
+          context.fillRect(dino.x, dino.y - jumpHeight, dino.width, dino.height);
+          context.fillStyle = 'brown';
+          context.fillRect(cactus.x, cactus.y, cactus.width, cactus.height);
+          if (isJumping) {
+            jumpHeight += 5;
+            if (jumpHeight >= 50) {
+              isJumping = false;
+            }
+          } else if (jumpHeight > 0) {
+            jumpHeight -= 5;
+          }
+          cactus.x -= 5;
+          if (cactus.x <= -50) {
+            cactus.x = 600;
+          }
+          requestAnimationFrame(draw);
+        }
+        
+        document.addEventListener('keydown', (event) => {
+          if (event.code === 'Space' && !isJumping) {
+            isJumping = true;
+          }
+        });
+        
+        draw();
+      });
+    </script>
   </div>
-  <script>
-    function play(userChoice) {
-      const choices = ['rock', 'paper', 'scissors'];
-      const computerChoice = choices[Math.floor(Math.random() * 3)];
-      let result = '';
-
-      if (userChoice === computerChoice) {
-        result = "It's a tie!";
-      } else if ((userChoice === 'rock' && computerChoice === 'scissors') || 
-                 (userChoice === 'paper' && computerChoice === 'rock') || 
-                 (userChoice === 'scissors' && computerChoice === 'paper')) {
-        result = 'You win!';
-      } else {
-        result = 'You lose!';
-      }
-
-      document.getElementById('result').innerText = `You chose ${userChoice}, computer chose ${computerChoice}. ${result}`;
-    }
-  </script>
 </details>
 
 Thanks for visiting my profile! 😊
