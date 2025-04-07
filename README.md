@@ -7,7 +7,7 @@ I'm a passionate developer who loves coding and exploring new technologies. Welc
 - 🌱 I’m currently learning advanced web development and cloud computing.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about web development, JavaScript, Python, and cloud services.
-- 📫 How to reach me: sanjana2505006@example.com
+
 
 ## Skills
 
