@@ -36,52 +36,8 @@ Brief description of the project and what technologies were used.
 
 ## Play a Game: Offline T-Rex
 
-<details>
-  <summary>Click to play the Offline T-Rex Game!</summary>
-  <br>
-  <div>
-    <canvas id="gameCanvas" width="600" height="150"></canvas>
-    <script>
-      // Offline T-Rex Game JavaScript Code
-      document.addEventListener('DOMContentLoaded', (event) => {
-        let canvas = document.getElementById('gameCanvas');
-        let context = canvas.getContext('2d');
-        let dino = { x: 50, y: 100, width: 50, height: 50 };
-        let cactus = { x: 600, y: 100, width: 50, height: 50 };
-        let isJumping = false;
-        let jumpHeight = 0;
-        
-        function draw() {
-          context.clearRect(0, 0, canvas.width, canvas.height);
-          context.fillStyle = 'green';
-          context.fillRect(dino.x, dino.y - jumpHeight, dino.width, dino.height);
-          context.fillStyle = 'brown';
-          context.fillRect(cactus.x, cactus.y, cactus.width, cactus.height);
-          if (isJumping) {
-            jumpHeight += 5;
-            if (jumpHeight >= 50) {
-              isJumping = false;
-            }
-          } else if (jumpHeight > 0) {
-            jumpHeight -= 5;
-          }
-          cactus.x -= 5;
-          if (cactus.x <= -50) {
-            cactus.x = 600;
-          }
-          requestAnimationFrame(draw);
-        }
-        
-        document.addEventListener('keydown', (event) => {
-          if (event.code === 'Space' && !isJumping) {
-            isJumping = true;
-          }
-        });
-        
-        draw();
-      });
-    </script>
-  </div>
-</details>
+![Offline T-Rex Game](https://github.com/sanjana2505006/Rock-Paper-Scissor/raw/main/path/to/image.png)
+
+You can play the Offline T-Rex Game [here](https://sanjana2505006.github.io/Rock-Paper-Scissor/).
 
 Thanks for visiting my profile! 😊
