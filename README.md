@@ -2,8 +2,7 @@
 
 I'm a passionate developer, coder by heart, and dreamer by soul. Welcome to my GitHub realm, where logic meets creativity and every line of code is part of my origin story 💻✨
 
-![Marvel Banner](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
-
+![Spider-Man Web Swing](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 ---
 
 ## 🧬 About Me
@@ -42,4 +41,4 @@ I'm a passionate developer, coder by heart, and dreamer by soul. Welcome to my G
 
 Thanks for stopping by! Keep coding, keep shining ✨
 
-![Avengers Animation](https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif)
+![Spidey Says Bye](https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif)
