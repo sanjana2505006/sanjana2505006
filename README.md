@@ -25,7 +25,7 @@ I'm a passionate developer, coder by heart, and dreamer by soul. Welcome to my G
 
 ![Sanjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjana2505006&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana2505006&layout=compact&theme=tokyonight)
+[![Current GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=sanjana2505006&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=5&mode=weekly&ring=DD2727&fire=DD2727)](https://git.io/streak-stats)
 
 ---
 
