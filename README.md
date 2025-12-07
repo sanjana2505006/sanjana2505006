@@ -21,14 +21,6 @@ I'm a passionate developer, coder by heart, and dreamer by soul. Welcome to my G
 
 ---
 
-## 🚀 GitHub Stats
-
-![Sanjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjana2505006&show_icons=true&theme=tokyonight)
-
-
-
----
-
 ## 🕸️ Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/sanjana250506/) 🔗  
