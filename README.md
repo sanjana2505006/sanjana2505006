@@ -24,7 +24,7 @@ I'm a passionate developer, coder by heart, and dreamer by soul. Welcome to my G
 ## 🕸️ Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/sanjana250506/) 🔗  
-- [LeetCode](https://leetcode.com/u/sanju2505/) 🧩
+- [LeetCode](https://leetcode.com/u/sanju2505/) 👩🏼‍💻
 
 ---
 
