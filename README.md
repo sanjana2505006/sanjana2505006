@@ -34,3 +34,7 @@ I'm a passionate developer, coder by heart, and dreamer by soul. Welcome to my G
 Thanks for stopping by! Keep coding, keep shining ✨
 
 ![Cat at job](https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif)
+
+<div align="center">
+
+[![An image of @sanjana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hariksh)](https://holopin.io/@sanjana)
