@@ -37,4 +37,4 @@ Thanks for stopping by! Keep coding, keep shining ✨
 
 <div align="center">
 
-[![An image of @sanjana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hariksh)](https://holopin.io/@sanjana)
+[![An image of @sanjana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hariksh)](https://holopin.io/@sanjana2505006)
