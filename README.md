@@ -9,7 +9,7 @@ I'm a passionate developer, coder by heart, and dreamer by soul. Welcome to my G
 
 - 🌱 Currently mastering **advanced web development** & diving into **cloud computing** like Tony into the multiverse
 - 👯 Actively looking to **collaborate on open-source projects** (assemble, devs!)
-- 💬 Talk to me about **React, Python, web dev magic**, or just say hi with a GIF 👾
+- 💬 Talk to me about **React, Python, web dev magic, binge-worthy series, can’t-put-down novels**, or just say hi with a GIF 👾
 
 ---
 
