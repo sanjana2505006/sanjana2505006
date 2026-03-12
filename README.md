@@ -34,7 +34,7 @@ I'm a passionate developer, coder by heart, and dreamer by soul. Welcome to my G
 > “Whatever happens tomorrow you must promise me one thing. That you will stay who you are. Not a perfect developer, but a good one.”  
 > — Inspired by Captain America 💙
 
-Thanks for stopping by! Keep coding, keep shining ✨
+Thanks for stopping by!  Keep coding, keep shining ✨
 
 ![Cat at job](https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif)
 
