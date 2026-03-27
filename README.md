@@ -4,7 +4,6 @@ I'm a passionate developer, coder by heart, and dreamer by soul. Welcome to my G
 
 ![Spider-Man Web Swing](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
-
 ---
 ## 🧬 About Me
 
